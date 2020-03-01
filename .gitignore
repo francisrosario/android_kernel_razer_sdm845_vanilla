@@ -1,2 +1,4 @@
 #Ignore all files from Build Directory
 out/
+
+Changelog.txt
